@@ -50,7 +50,7 @@ Key areas include regional performance, customer behavior, shipping efficiency, 
 ---
 
 ## 📂 Files Included
-- `superstore_sales_analysis.sql`: Complete set of SQL queries
+- `superstore_sales.sql`: Complete set of SQL queries
 
 ---
 
